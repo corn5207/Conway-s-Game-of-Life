@@ -1,3 +1,8 @@
+/* Game of Life
+ * Developer: Yu-Min Chen
+ * Date: 2017/3/4
+ */
+
 #include <iostream>
 #include <cstring>
 #include <conio.h>
